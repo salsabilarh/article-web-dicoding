@@ -16,12 +16,12 @@
 ## 📖 Daftar Isi
 
 - [Ringkasan Eksekutif](#ringkasan-eksekutif)
-- [✨ Fitur Utama](#-fitur-utama)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🏗️ Arsitektur & Pendekatan Teknis](#️-arsitektur--pendekatan-teknis)
-- [🚀 Cara Instalasi & Penggunaan](#-cara-instalasi--penggunaan-lokal)
-- [📚 Pelajaran Teknis — What I Learned](#-pelajaran-teknis--what-i-learned)
-- [📄 Lisensi](#-lisensi)
+- [Fitur Utama](#-fitur-utama)
+- [Tech Stack](#️-tech-stack)
+- [Arsitektur & Pendekatan Teknis](#️-arsitektur--pendekatan-teknis)
+- [Cara Instalasi & Penggunaan](#-cara-instalasi--penggunaan-lokal)
+- [Pelajaran Teknis — What I Learned](#-pelajaran-teknis--what-i-learned)
+- [Lisensi](#-lisensi)
 
 ---
 
@@ -147,7 +147,7 @@ submission-web-dicoding/
 ├── index.html          ← Entry point utama
 ├── style.css           ← Semua styling (satu file, terorganisir per section)
 └── assets/
-    ├── profile.jpg     ← Foto profil penulis
+    ├── profile.jpg     ← Foto profil
     ├── books.jpg
     ├── alone.jpg
     ├── do.png
