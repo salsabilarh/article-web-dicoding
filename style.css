@@ -17,10 +17,10 @@ body {
 /* ========= HEADER & JUMBOTRON ========= */
 .jumbotron {
     padding: 60px 20px;
-    background-color: #FFF6F6;
+    background-color: #72b0ab;
     text-align: center;
     font-size: 1.2rem;
-    color: black;
+    color: white;
 }
 
 .jumbotron h1 {
@@ -31,13 +31,13 @@ body {
 }
 
 .jumbotron p {
-    color: black;
+    color: white;
     line-height: 1.4;
 }
 
 /* ========= NAVIGASI ========= */
 nav {
-    background-color: #DC9B9B;
+    background-color: #bcdddc;
     padding: 12px 20px;
     position: sticky;
     top: 0;
@@ -57,7 +57,7 @@ nav a {
     font-size: 1.05rem;
     font-weight: 500;
     text-decoration: none;
-    color: white;
+    color: black;
     padding: 6px 12px;
     transition: all 0.2s ease;
     border-radius: 30px;
@@ -112,7 +112,7 @@ h2 {
     margin-bottom: 16px;
     color: black;
     font-weight: 700;
-    border-left: 5px solid #DC9B9B;
+    border-left: 5px solid #72b0ab;
     padding-left: 16px;
 }
 
@@ -165,7 +165,7 @@ aside img {
 figcaption {
     margin-top: 8px;
     font-style: italic;
-    color: #DC9B9B;
+    color: #72b0ab;
 }
 
 /* Daftar isi & list styling */
@@ -189,13 +189,13 @@ a:hover {
 
 /* Footer */
 footer {
-    background-color: #DC9B9B;
+    background-color: #72b0ab;
     text-align: center;
     padding: 24px 20px;
     font-weight: 600;
     margin-top: 20px;
     color: white;
-    border-top: 1px solid #DC9B9B;
+    border-top: 1px solid #72b0ab;
 }
 
 /* ========= RESPONSIVE MEDIA QUERY (FLEXBOX) ========= */
